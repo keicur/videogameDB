@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang= "en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>About Us</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel = "stylesheet" href = "../static/css/style.css">
+  </head>
+
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+        <img height = 36rem src = "../static/images/logo.png" />
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="{{url_for('index')}}">Home </a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="{{url_for('about')}}">About Us <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{url_for('games')}}">Games</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" href="{{url_for('engines')}}">Engines</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" href="{{url_for('developers')}}">Developers</a>
+          </li>
+
+        </ul>
+      </div>
+
+    </nav>
+
+    <div class="container">
+
+      <div class="intro-text">
+        <h1>About Us</h1>
+        <p class="lead">VGDB Group</p>
+      </div>
+      <div class="row">
+        <div class="col-lg-4 col-sm-6 text-center mb-4">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="../static/images/myles.JPG" alt="">
+          <h3>Myles Robinson
+          <small>Web Dev</small>
+          </h3>
+          <p>Bio: Economics major from Austin, Texas.<br> Number of commits: 42<br> Number of issues: 17<br> Number of unit tests: 0</p>
+        </div>
+        <div class="col-lg-4 col-sm-6 text-center mb-4">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="../static/images/yasser.jpg" alt="">
+          <h3>Yasser Kassif
+          <small>Web Dev</small>
+          </h3>
+          <p>Bio: Math major from Katy, Texas.<br> Number of commits: 74<br> Number of issues: 11<br> Number of unit tests: 0</p>
+        </div>
+        <div class="col-lg-4 col-sm-6 text-center mb-4">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="../static/images/keillor.jpg" alt="">
+          <h3>Keillor Currie
+          <small>Web Dev</small>
+          </h3>
+          <p>Bio: Math Major from Austin, Texas<br> Number of commits: 35<br> Number of issues: 12<br> Number of unit tests: 3</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-4 col-sm-6 text-center mb-4">
+          <img class="rounded-circle img-fluid d-block mx-auto" src="../static/images/Max.jpg" alt="">
+          <h3>Max Holter
+          <small>Web Dev</small>
+          </h3>
+          <p>Bio: Math Major from Fort Collins, CO<br> Number of commits: 20<br> Number of issues: 26<br> Number of unit tests: 6</p>
+        </div>
+        <div class="col-lg-4 col-sm-6 text-center mb-4">
+          <h3>Statistics</h3>
+          <p>Total number of commits: 73<br> Total number of issues: 47<br> Total number of unit tests: 9</p>
+          <h3>Data</h3>
+          <p>Data Sources: <a href="https://api.igdb.com/">https://api.igdb.com/</a></p>
+        </div>
+        <div class="col-lg-4 col-sm-6 text-center mb-4">
+          <h3>Links</h3>
+          <p><a href="https://gitlab.com/yasserk7/cs329e-idb/issues">GitLab Issue Tracker</a><br> <a href="https://gitlab.com/yasserk7/cs329e-idb/tree/master">GitLab Repo</a><br><a href="https://gitlab.com/yasserk7/cs329e-idb/wikis/home">GitLab Wiki</a><br><a href="{{url_for('test')}}">Unit Tests</a><br><a href="https://speakerdeck.com/myr">Speaker Deck</a></p>
+          <h3>Tools Used</h3>
+          <p><a href="http://getbootstrap.com/">Bootstrap</a>, <a href="https://coverage.readthedocs.io/en/coverage-4.0.3/">Coverage</a>, <a href="http://flask.pocoo.org/">Flask</a>, <a href="https://pythonhosted.org/Flask-SQLAlchemy/">Flask SQLAlchemy</a>, <a href="http://cloud.google.com/?">GCP</a>, <a href="http://www.git-scm.com/">Git</a>, <a href="http://jinja.pocoo.org/">Jinja</a>, <a href="https://www.postgresql.org/">PostgresSQL</a>, <a href="https://docs.python.org/3.4/library/pydoc.html">pydoc</a></p>
+        </div>
+      </div>
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  </body>
+
+</html>

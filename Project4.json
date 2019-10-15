@@ -1,0 +1,33 @@
+{
+  "Project #4": {
+    "Git SHA": "6352552738ba8ae0dd9d199ab9d4411a8b1b615a",
+    "GitLab Username": "yasserk7",
+    "GitLab URL": "https://gitlab.com/yasserk7/cs329e-idb",
+    "Website URL": "https://bookdatabase.me/",
+    "Leader EID": "yk6846",
+	"Leader First Name": "Yasser",
+	"Leader Last Name": "Kassif",
+    "Leader E-mail": "yasser@utexas.edu",
+    "Leader Estimated Completion Time (hours : integer)": 7,
+    "Leader Actual    Completion Time (hours : integer)": 9,
+    "Member #2 EID": "mar6475",
+    "Member #2 First Name": "Myles",
+	"Member #2 Last Name": "Robinson",
+	"Member #2 E-mail": "my0110j@gmail.com",
+    "Member #2 Estimated Completion Time (hours : integer)": 7,
+    "Member #2 Actual    Completion Time (hours : integer)": 9,
+    "Member #3 EID": "mjh3964",
+    "Member #3 First Name": "Max",
+	"Member #3 Last Name": "Holter",
+	"Member #3 E-mail": "max_holter@utexas.edu",
+    "Member #3 Estimated Completion Time (hours : integer)": 7,
+    "Member #3 Actual    Completion Time (hours : integer)": 9,
+    "Member #4 EID": "kc34258",
+    "Member #4 First Name": "Keillor",
+	"Member #4 Last Name": "Currie",
+	"Member #4 E-mail": "keillordc@gmail.com",
+    "Member #4 Estimated Completion Time (hours : integer)": 7,
+    "Member #4 Actual    Completion Time (hours : integer)": 9,
+    "Comments": "n/a"
+  }
+}

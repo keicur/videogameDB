@@ -1,0 +1,176 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset0 Menlo-Bold;}
+{\colortbl;\red255\green255\blue255;\red170\green171\blue37;\red56\green185\blue199;\red57\green192\blue38;
+\red202\green51\blue35;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c72330\c71683\c18597;\cssrgb\c25544\c77008\c82022;\cssrgb\c25704\c77963\c19556;
+\cssrgb\c83898\c28665\c18024;\csgray\c0;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf2 \CocoaLigature0 commit 941f03f5b98a76b0ae0b707ddff3118de1447244 (
+\f1\b \cf3 HEAD -> \cf4 master
+\f0\b0 \cf2 , 
+\f1\b \cf5 origin/master
+\f0\b0 \cf2 , 
+\f1\b \cf5 origin/HEAD
+\f0\b0 \cf2 )\cf6 \
+Author: keicur <keillordc@gmail.com>\
+Date:   Thu Oct 25 15:04:16 2018 -0500\
+\
+    keillor.jpg\
+\
+\cf2 commit e555dd2582fcbed8cd5c19e18467c7f7bb417d29\cf6 \
+Merge: 19c95f8 915d7a6\
+Author: keicur <keillordc@gmail.com>\
+Date:   Thu Oct 25 14:30:32 2018 -0500\
+\
+    Merge branch 'master' of gitlab.com:yasserk7/cs329e-idb\
+\
+\cf2 commit 19c95f8574c1ea2060de3649cb51633f5c32ca33\cf6 \
+Author: keicur <keillordc@gmail.com>\
+Date:   Thu Oct 25 14:28:47 2018 -0500\
+\
+    keillor about me\
+\
+\cf2 commit 915d7a68068f2c21e536dbbb01a3e9b9fbde2637\cf6 \
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>\
+Date:   Thu Oct 25 14:28:41 2018 -0500\
+\
+    fixed image error on about us page\
+\
+\cf2 commit 821c08c8a51df00da24eb0a36af631aba122889f\cf6 \
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>\
+Date:   Thu Oct 25 14:16:23 2018 -0500\
+\
+    added .gitignore\
+\
+\cf2 commit f5adf8741503f9ea54e154f81320e94d4c739555\cf6 \
+Merge: d80fce5 0921f99\
+Author: Yasser Kassif <ykassif@outlook.com>\
+Date:   Thu Oct 25 13:45:47 2018 -0500\
+\
+    Merge branch 'master' of https://gitlab.com/yasserk7/cs329e-idb\
+\
+\cf2 commit d80fce5feb2de804a0573406dd7eb0e885b472b1\cf6 \
+Author: Yasser Kassif <ykassif@outlook.com>\
+Date:   Thu Oct 25 13:45:33 2018 -0500\
+\
+    added team info\
+\
+\cf2 commit 0921f99aebbf1e31e301915ed346ccb7b9f2b6f4\cf6 \
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>\
+Date:   Thu Oct 25 13:15:28 2018 -0500\
+\
+    added links to publishers details\
+\
+\cf2 commit 4f8578d6c593f62baabe5996e0896db917f110ec\cf6 \
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>\
+Date:   Thu Oct 25 13:05:43 2018 -0500\
+\
+    added links to author details pages\
+\
+\cf2 commit 62a6fceeec4eb6fc93051b763c46824669db3dc7\cf6 \
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>\
+Date:   Thu Oct 25 12:35:47 2018 -0500\
+\
+    added links to book details pages\
+\
+\cf2 commit ceb83d147ceb415d32519a3179c5a87ce26c3974\cf6 \
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>\
+Date:   Thu Oct 25 10:56:13 2018 -0500\
+\
+    personalized splash page\
+\
+\cf2 commit 77521fde1258c5f470f53d51787dd178f347dd47\cf6 \
+Merge: c6e111f fabd1da\
+Author: keicur <keillordc@gmail.com>\
+Date:   Thu Oct 25 01:20:38 2018 -0500\
+\
+    Merge branch 'master' of gitlab.com:yasserk7/cs329e-idb\
+\
+\cf2 commit c6e111f7d2f0a32ad5020302d698710a9ac29fc2\cf6 \
+Author: keicur <keillordc@gmail.com>\
+Date:   Thu Oct 25 01:19:00 2018 -0500\
+\
+    search bar and 3 books\
+\
+\cf2 commit fabd1dabfb15d3dd6117113d8bf5e54e0becbaff\cf6 \
+Author: Yasser Kassif <ykassif@outlook.com>\
+Date:   Wed Oct 24 23:42:15 2018 -0500\
+\
+    add publisher and book detail pages\
+\
+\cf2 commit 96d0934a091fc3cdae91d2d768d3211219760ed6\cf6 \
+Merge: 3d0815d baef3d5\
+Author: Yasser Kassif <ykassif@outlook.com>\
+Date:   Wed Oct 24 22:59:13 2018 -0500\
+\
+    Merge branch 'master' of https://gitlab.com/yasserk7/cs329e-idb\
+\
+\cf2 commit 3d0815d10866a6db3f5375faf702780dbebf7f21\cf6 \
+Author: Yasser Kassif <ykassif@outlook.com>\
+Date:   Wed Oct 24 22:58:53 2018 -0500\
+\
+    added author detail pages\
+\
+\cf2 commit baef3d5e8f715711f075897436f9292907681c48\cf6 \
+Author: Maxwell Holter <max.holter22@gmail.com>\
+Date:   Wed Oct 24 19:48:47 2018 -0500\
+\
+    Adding Max photo\
+\
+\cf2 commit cdf3946db75778ad89f48158ce969d3b57b0b9cb\cf6 \
+Author: Yasser Kassif <ykassif@outlook.com>\
+Date:   Wed Oct 24 18:14:04 2018 -0500\
+\
+    setup details pages\
+\
+\cf2 commit 43bc423bbc3b0e06cac80dbae090d97fabefc664\cf6 \
+Author: Myles Robinson <mylesrobinson@wireless-10-145-5-200.public.utexas.edu>\
+Date:   Wed Oct 24 17:44:04 2018 -0500\
+\
+    worked on navigating pages(authors, books, publishers)\
+\
+\cf2 commit 6032b964514e5dcfe35018c97b05ad725f32fa80\cf6 \
+Author: Myles Robinson <mylesrobinson@wireless-10-145-5-200.public.utexas.edu>\
+Date:   Wed Oct 24 16:27:12 2018 -0500\
+\
+    finished navbar\
+\
+\cf2 commit 8110c3a93e48be1006c8380004e90f673d5a003f\cf6 \
+Author: Myles Robinson <mylesrobinson@wireless-10-145-5-200.public.utexas.edu>\
+Date:   Wed Oct 24 15:22:03 2018 -0500\
+\
+    finished about us page\
+\
+\cf2 commit 657ea3bb120f68e0b74ffedc190ca1cbf9498fd8\cf6 \
+Author: Myles Robinson <mylesrobinson@wireless-10-145-5-200.public.utexas.edu>\
+Date:   Wed Oct 24 15:04:20 2018 -0500\
+\
+    completed about us page\
+\
+\cf2 commit 51160dca7f8d63c666b460d3e6f773a0ffde808c (
+\f1\b \cf5 origin/dev
+\f0\b0 \cf2 )\cf6 \
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>\
+Date:   Wed Oct 24 10:45:26 2018 -0500\
+\
+    setup splash page and about us page\
+\
+\cf2 commit 6fd89cf3e36c55d4f5e346d8f3eb44646dad22eb\cf6 \
+Author: Yasser Kassif <ykassif@outlook.com>\
+Date:   Tue Oct 23 18:59:54 2018 -0500\
+\
+    added books datasource\
+\
+\cf2 commit bf99ab4b980f26912286f2e8f5395905721af60d\cf6 \
+Author: Yasser Kassif <ykassif@outlook.com>\
+Date:   Tue Oct 23 15:37:23 2018 -0500\
+\
+    setup flask and virtual env\
+\
+\cf2 commit 3bb72f4edc1723c20dce6820b3b565793b632579\cf6 \
+Author: yasserk7 <ykassif@outlook.com>\
+Date:   Sun Oct 21 17:06:46 2018 -0500\
+\
+    upload template files}

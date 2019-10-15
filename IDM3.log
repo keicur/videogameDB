@@ -1,0 +1,619 @@
+commit 97439c6db8753a75369d07c0bc46df3f27f1ecca
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Thu Nov 29 21:48:04 2018 -0600
+
+    finalized db string and unit tests
+
+commit acfaed9212d0ba272757d0b209f43beece4d377e
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Thu Nov 29 21:19:21 2018 -0600
+
+    remove imports for gcp
+
+commit b6e2f4fcb810513180510c849b9471969b200a98
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Thu Nov 29 21:18:08 2018 -0600
+
+    remove imports for gcp
+
+commit b5481227ec777471aea7dbc8c06b5bbfa2688702
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Thu Nov 29 21:10:45 2018 -0600
+
+    fix string again
+
+commit 309534021f26f41073dd06f36e84579faab17cef
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Thu Nov 29 21:01:57 2018 -0600
+
+    fix string again
+
+commit 6e69712d5a1be88536430e1a32683549d1b84378
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Thu Nov 29 20:55:59 2018 -0600
+
+    fix string again
+
+commit ba10ee9578cf414631971966fa77bc8a8ea8a329
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Thu Nov 29 20:53:43 2018 -0600
+
+    fix db string
+
+commit d9223fb675faf79a0ba0cfc1bba2c92affb16e93
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Thu Nov 29 20:15:29 2018 -0600
+
+    gcp connection string
+
+commit 0b0c79aeedcd0bf99c5b068fe2c9df5c8bb034c0
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Thu Nov 29 19:41:52 2018 -0600
+
+    modified db connections
+
+commit 2d77bd4ecb812194e2baefc4b5a31c09cdedf9ef
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Thu Nov 29 19:12:38 2018 -0600
+
+    test page
+
+commit 24a9475a274a9b35db0244b2de1d446741470d93
+Merge: 54c8458 407b4db
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Thu Nov 29 19:00:56 2018 -0600
+
+    Merge branch 'master' of https://gitlab.com/yasserk7/cs329e-idb
+
+commit 54c845819d4ea4d051ed85e144f4b7d67c66c08a
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Thu Nov 29 18:59:51 2018 -0600
+
+    added speaker deck link and unit test to about page
+
+commit 407b4db7fa7215ca6d5632d4a6e6173af5989f12
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Fri Nov 30 00:20:57 2018 +0000
+
+    Add README.md
+
+commit ee0e60b6567781739ede868eeeacc50c828fe049
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Thu Nov 29 17:14:39 2018 -0600
+
+    null image replacment
+
+commit 5b0851fcb43fb4ea6ee919b99a84d4c764b898d5
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Thu Nov 29 15:23:54 2018 -0600
+
+    updated splash css
+
+commit 95308de20f5b25fd8fdd0b18d9eedecfa3cc6996
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Thu Nov 29 14:39:19 2018 -0600
+
+    updated navbar and logo
+
+commit 85bdf94532e30555a247d79d60e05b703377f643
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Thu Nov 29 14:36:21 2018 -0600
+
+    updated splash
+
+commit 14f0314f366d1b6a09f473eef9167d8b5a8a3fc1
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Thu Nov 29 08:23:24 2018 -0600
+
+    cleaned up tables and details pages
+
+commit 8f310d1f44bbf532b266b767048ad37d981824d7
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Wed Nov 28 20:11:56 2018 -0600
+
+    fixed errors, nearly complete
+
+commit fc49ef2813c0918460393aae466d5ad7aa7e9b2c
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Wed Nov 28 17:46:54 2018 -0600
+
+    fixed engine logos
+
+commit 2411cf7fffd4acd546930e840d206f326fa002ab
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Wed Nov 28 17:44:52 2018 -0600
+
+    fix logo
+
+commit 6b80af20f3b588f0fd6fb49700071f97260be885
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Wed Nov 28 10:35:04 2018 -0600
+
+    more linking
+
+commit 4638590341629ad4649005b914fcb865b4de7bc9
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Tue Nov 27 19:49:58 2018 -0600
+
+    setup linking
+
+commit b6b570161b07d7c4e92e0ccb1493932c46a9f8bf
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Tue Nov 27 18:34:12 2018 -0600
+
+    added engine and dev id arrays
+
+commit ada79ac667f390d297252aa487d7f44d06b088da
+Author: keicur <keillordc@gmail.com>
+Date:   Sat Nov 10 15:34:55 2018 -0600
+
+    developers info and website
+
+commit 79fc5f1e10ae46aa0bf04cdf58d0e4b62ac5c1b8
+Author: keicur <keillordc@gmail.com>
+Date:   Sat Nov 10 14:19:26 2018 -0600
+
+    list of developers on games page
+
+commit b5999d1c0774c1b7ec7d64024525d30b6a1a0849
+Author: keicur <keillordc@gmail.com>
+Date:   Sat Nov 10 13:30:06 2018 -0600
+
+    add game list to engines and developers
+
+commit 6352552738ba8ae0dd9d199ab9d4411a8b1b615a
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Fri Nov 9 21:26:20 2018 -0600
+
+    fixed tests
+
+commit 28cac1f1d42b648ad14fd918a1ccccb7f3fe5d43
+Merge: 87a9f90 11414f2
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Fri Nov 9 21:22:25 2018 -0600
+
+    fixed db
+
+commit 87a9f90cb58ccefd5b693b99881efef3094cfb6c
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Fri Nov 9 21:14:56 2018 -0600
+
+    fix engines and developers db
+
+commit 11414f227e487aba7e8e893b3584fb27cc5c4e13
+Author: Maxwell Holter <max.holter22@gmail.com>
+Date:   Fri Nov 9 20:07:15 2018 -0600
+
+    backing up
+
+commit 4daaf779b52345aa05f55c866a0474ca20ea72f0
+Author: Maxwell Holter <max.holter22@gmail.com>
+Date:   Fri Nov 9 20:03:12 2018 -0600
+
+    error checking
+
+commit 2ef30f8ceb8a575f5f464c3cc93acf7b54774fc7
+Author: Maxwell Holter <max.holter22@gmail.com>
+Date:   Fri Nov 9 19:08:02 2018 -0600
+
+    still has errors
+
+commit 041ee1bed9dff08ed1d8ca989a538090f33ab1aa
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Fri Nov 9 22:25:22 2018 -0600
+
+    fix dev and engine db
+
+commit eeb2f91f9cc8bc5907d1d38951415866242519a6
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Fri Nov 9 10:14:01 2018 -0600
+
+    gitlab-ci changes
+
+commit 6825d31c91357335e6388825030f41ef16a923d5
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Fri Nov 9 09:59:19 2018 -0600
+
+    adjusted gitlab-ci.yml
+
+commit e4b060dbb52c9ce9bb915c5c3d84d7903e6ec26f
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Fri Nov 9 09:52:29 2018 -0600
+
+    updated about page
+
+commit 3905ade362e46b9f73f83cb1289d5960384cab73
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Fri Nov 9 09:40:24 2018 -0600
+
+    created models.html through pydoc
+
+commit 00cb8c2d23cdc78d781e2073b4fa46d85f7ac99b
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Fri Nov 9 00:17:01 2018 -0600
+
+    updated splash bg, and logo
+
+commit 9a881c38470efba5ccab6a54bc528b70ab872ae2
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Thu Nov 8 23:49:31 2018 -0600
+
+    final gcp cloudsql fix
+
+commit df6ad4bd5199f293910ae85e84bec7ce6cd5cbce
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Thu Nov 8 23:10:56 2018 -0600
+
+    cloudsql connection
+
+commit 80b297d846f4beae059cf8c935bb3f4603cbae24
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Thu Nov 8 21:28:00 2018 -0600
+
+    created log and yaml
+
+commit 7e44994d2d8df68df0623e367f5ccc85018c1d11
+Author: keicur <keillordc@gmail.com>
+Date:   Thu Nov 8 21:16:58 2018 -0600
+
+    update test1
+
+commit 29fff920af1a9ab2df6eb2cb838992c7e5436275
+Merge: be9db69 e585b4e
+Author: keicur <keillordc@gmail.com>
+Date:   Thu Nov 8 20:39:55 2018 -0600
+
+    update splash
+
+commit be9db69be65702fc718c5ba7b9f26f35ced9f4c4
+Author: keicur <keillordc@gmail.com>
+Date:   Thu Nov 8 20:30:04 2018 -0600
+
+    update splash
+
+commit e585b4e5bd512e7fa4cb85896286d14171da2452
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Thu Nov 8 20:29:21 2018 -0600
+
+    updated requirements.txt
+
+commit b46daba424516d0cc6eb455865aa8cf4ea3b6729
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Thu Nov 8 20:24:53 2018 -0600
+
+    updated requirements.txt
+
+commit fa5fcccfa5ce44655fbdff2c38e3e0983bb4d095
+Merge: 322db68 50df545
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Thu Nov 8 20:07:25 2018 -0600
+
+    added pagination, sorting, searching on games.html
+
+commit 322db680bcc4bf7a0e624ec388c7715e1b2f0f2d
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Thu Nov 8 20:04:27 2018 -0600
+
+    setup pagination/sorting/search on games.html
+
+commit 50df5452d233e10c6889106518b7056b273022ec
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Thu Nov 8 19:45:56 2018 -0600
+
+    setup developers and engines pages for when db is ready
+
+commit bb755deb45cf6885752a2e89b1ef36d951864f01
+Merge: 9593894 c5aa405
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Thu Nov 8 19:01:29 2018 -0600
+
+    dynamic detail pages
+
+commit 9593894dc519966efdb359081d394327a2906816
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Thu Nov 8 18:54:53 2018 -0600
+
+    dynamic games details pages
+
+commit c5aa40528ee36afacc6716413df96d0970bde793
+Merge: f0dceda a86ec71
+Author: keicur <keillordc@gmail.com>
+Date:   Thu Nov 8 18:21:50 2018 -0600
+
+    Merge branch 'master' of gitlab.com:yasserk7/cs329e-idb
+
+commit f0dcedaaf61c1755a1cae25b9222dfc5bcb1e70b
+Author: keicur <keillordc@gmail.com>
+Date:   Thu Nov 8 18:20:46 2018 -0600
+
+    update app.py and models.py for Engine and Developer
+
+commit a86ec7166f0f191aea9f6184fc4a0bd8281dbe81
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Thu Nov 8 17:51:08 2018 -0600
+
+    pagination
+
+commit e7c2ba6794d7a234a789bf2f03c8f06e517d5582
+Merge: 9dc2793 966494a
+Author: keicur <keillordc@gmail.com>
+Date:   Thu Nov 8 17:06:33 2018 -0600
+
+    Merge branch 'master' of gitlab.com:yasserk7/cs329e-idb
+
+commit 966494ad9e30d14e9c619c45e7e969601faa87ef
+Author: Maxwell Holter <max.holter22@gmail.com>
+Date:   Thu Nov 8 16:41:14 2018 -0600
+
+    first test
+
+commit 9dc27934807186e05b3d938edcb2d997c82c0799
+Author: keicur <keillordc@gmail.com>
+Date:   Thu Nov 8 16:23:36 2018 -0600
+
+    developers.json
+
+commit 28303fbda8f6aaf0f7a10df05bf953f140d30380
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Thu Nov 8 16:02:10 2018 -0600
+
+    Updated About page
+
+commit 8fce13dfb1c75c9dd4bacc4d4220f9ec9e328f3d
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Thu Nov 8 15:50:01 2018 -0600
+
+    added links to games.html
+
+commit 4d66d291ebd2bdd88ff5841da0ec4666bb4656c8
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Thu Nov 8 15:31:57 2018 -0600
+
+    formalized list for games in games.html
+
+commit 425eecfc1540087a71570f05fa8e8023dc357dcf
+Merge: ed8ddc6 a584578
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Thu Nov 8 14:44:35 2018 -0600
+
+    populated database and got games.html to list game names
+
+commit ed8ddc69e76ecbb6f5eceaac6346d8b8f3c6d813
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Thu Nov 8 14:42:36 2018 -0600
+
+    populated database and got games to list to games.html
+
+commit a58457897a4341c878470324c6c7ed69fd2a6b3d
+Author: keicur <keillordc@gmail.com>
+Date:   Thu Nov 8 13:59:25 2018 -0600
+
+    added engines.json
+
+commit a6e9742b48f0145b51aad0b45452e51fc8252014
+Merge: 16f810d be91354
+Author: keicur <keillordc@gmail.com>
+Date:   Wed Nov 7 20:56:43 2018 -0600
+
+    Merge branch 'master' of gitlab.com:yasserk7/cs329e-idb
+
+commit be9135497e59dc072c7d88e1515e43c176fdd31e
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Wed Nov 7 20:43:56 2018 -0600
+
+    get developer and engine ids
+
+commit 16f810de6b9245064f1904d1107fbe3838e4f51d
+Merge: 394d4b6 e239057
+Author: keicur <keillordc@gmail.com>
+Date:   Wed Nov 7 19:49:52 2018 -0600
+
+    g
+
+commit 394d4b64b58deaeb80209cf0c90e01d58c4e577d
+Author: keicur <keillordc@gmail.com>
+Date:   Wed Nov 7 19:43:10 2018 -0600
+
+    create json test
+
+commit e239057079ec6430d947e5294a25679f8f919478
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Wed Nov 7 19:38:52 2018 -0600
+
+    fixed json formatting
+
+commit 339709b19af9a01635ed10ea231cef6ae99b7d35
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Wed Nov 7 19:09:57 2018 -0600
+
+    changed api key
+
+commit 18d7c43a9ee84afc3b80e35d679db49b8b2e5ae5
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Wed Nov 7 18:25:40 2018 -0600
+
+    setup db and dynamic html
+
+commit 73c68d6c2ad5f2a3b9006d7b41c6feceedb97444
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Wed Nov 7 16:55:17 2018 -0600
+
+    altered creation of json file
+
+commit 8b9951fce37aae66509091014eb6d98f35ca0c27
+Author: Myles Robinson <mylesrobinson@wireless-10-145-104-195.public.utexas.edu>
+Date:   Tue Nov 6 15:37:48 2018 -0600
+
+    setup initial database initilization
+
+commit 42f6542cdaa106ab01be6c9f54cbb83dc324c789
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Thu Oct 25 16:51:02 2018 -0500
+
+    added IDB1.log, finalized about page, obtained git SHA
+
+commit 941f03f5b98a76b0ae0b707ddff3118de1447244
+Author: keicur <keillordc@gmail.com>
+Date:   Thu Oct 25 15:04:16 2018 -0500
+
+    keillor.jpg
+
+commit e555dd2582fcbed8cd5c19e18467c7f7bb417d29
+Merge: 19c95f8 915d7a6
+Author: keicur <keillordc@gmail.com>
+Date:   Thu Oct 25 14:30:32 2018 -0500
+
+    Merge branch 'master' of gitlab.com:yasserk7/cs329e-idb
+
+commit 19c95f8574c1ea2060de3649cb51633f5c32ca33
+Author: keicur <keillordc@gmail.com>
+Date:   Thu Oct 25 14:28:47 2018 -0500
+
+    keillor about me
+
+commit 915d7a68068f2c21e536dbbb01a3e9b9fbde2637
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Thu Oct 25 14:28:41 2018 -0500
+
+    fixed image error on about us page
+
+commit 821c08c8a51df00da24eb0a36af631aba122889f
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Thu Oct 25 14:16:23 2018 -0500
+
+    added .gitignore
+
+commit f5adf8741503f9ea54e154f81320e94d4c739555
+Merge: d80fce5 0921f99
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Thu Oct 25 13:45:47 2018 -0500
+
+    Merge branch 'master' of https://gitlab.com/yasserk7/cs329e-idb
+
+commit d80fce5feb2de804a0573406dd7eb0e885b472b1
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Thu Oct 25 13:45:33 2018 -0500
+
+    added team info
+
+commit 0921f99aebbf1e31e301915ed346ccb7b9f2b6f4
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Thu Oct 25 13:15:28 2018 -0500
+
+    added links to publishers details
+
+commit 4f8578d6c593f62baabe5996e0896db917f110ec
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Thu Oct 25 13:05:43 2018 -0500
+
+    added links to author details pages
+
+commit 62a6fceeec4eb6fc93051b763c46824669db3dc7
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Thu Oct 25 12:35:47 2018 -0500
+
+    added links to book details pages
+
+commit ceb83d147ceb415d32519a3179c5a87ce26c3974
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Thu Oct 25 10:56:13 2018 -0500
+
+    personalized splash page
+
+commit 77521fde1258c5f470f53d51787dd178f347dd47
+Merge: c6e111f fabd1da
+Author: keicur <keillordc@gmail.com>
+Date:   Thu Oct 25 01:20:38 2018 -0500
+
+    Merge branch 'master' of gitlab.com:yasserk7/cs329e-idb
+
+commit c6e111f7d2f0a32ad5020302d698710a9ac29fc2
+Author: keicur <keillordc@gmail.com>
+Date:   Thu Oct 25 01:19:00 2018 -0500
+
+    search bar and 3 books
+
+commit fabd1dabfb15d3dd6117113d8bf5e54e0becbaff
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Wed Oct 24 23:42:15 2018 -0500
+
+    add publisher and book detail pages
+
+commit 96d0934a091fc3cdae91d2d768d3211219760ed6
+Merge: 3d0815d baef3d5
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Wed Oct 24 22:59:13 2018 -0500
+
+    Merge branch 'master' of https://gitlab.com/yasserk7/cs329e-idb
+
+commit 3d0815d10866a6db3f5375faf702780dbebf7f21
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Wed Oct 24 22:58:53 2018 -0500
+
+    added author detail pages
+
+commit baef3d5e8f715711f075897436f9292907681c48
+Author: Maxwell Holter <max.holter22@gmail.com>
+Date:   Wed Oct 24 19:48:47 2018 -0500
+
+    Adding Max photo
+
+commit cdf3946db75778ad89f48158ce969d3b57b0b9cb
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Wed Oct 24 18:14:04 2018 -0500
+
+    setup details pages
+
+commit 43bc423bbc3b0e06cac80dbae090d97fabefc664
+Author: Myles Robinson <mylesrobinson@wireless-10-145-5-200.public.utexas.edu>
+Date:   Wed Oct 24 17:44:04 2018 -0500
+
+    worked on navigating pages(authors, books, publishers)
+
+commit 6032b964514e5dcfe35018c97b05ad725f32fa80
+Author: Myles Robinson <mylesrobinson@wireless-10-145-5-200.public.utexas.edu>
+Date:   Wed Oct 24 16:27:12 2018 -0500
+
+    finished navbar
+
+commit 8110c3a93e48be1006c8380004e90f673d5a003f
+Author: Myles Robinson <mylesrobinson@wireless-10-145-5-200.public.utexas.edu>
+Date:   Wed Oct 24 15:22:03 2018 -0500
+
+    finished about us page
+
+commit 657ea3bb120f68e0b74ffedc190ca1cbf9498fd8
+Author: Myles Robinson <mylesrobinson@wireless-10-145-5-200.public.utexas.edu>
+Date:   Wed Oct 24 15:04:20 2018 -0500
+
+    completed about us page
+
+commit 51160dca7f8d63c666b460d3e6f773a0ffde808c
+Author: Myles Robinson <mylesrobinson@Myless-MacBook-Pro.local>
+Date:   Wed Oct 24 10:45:26 2018 -0500
+
+    setup splash page and about us page
+
+commit 6fd89cf3e36c55d4f5e346d8f3eb44646dad22eb
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Tue Oct 23 18:59:54 2018 -0500
+
+    added books datasource
+
+commit bf99ab4b980f26912286f2e8f5395905721af60d
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Tue Oct 23 15:37:23 2018 -0500
+
+    setup flask and virtual env
+
+commit 3bb72f4edc1723c20dce6820b3b565793b632579
+Author: yasserk7 <ykassif@outlook.com>
+Date:   Sun Oct 21 17:06:46 2018 -0500
+
+    upload template files
+
+commit 2841b49bd2a033742512572bb067d6cb90d6ddde
+Author: Yasser Kassif <ykassif@outlook.com>
+Date:   Sun Oct 21 21:46:41 2018 +0000
+
+    Initial commit
